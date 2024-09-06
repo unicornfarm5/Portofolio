@@ -1,0 +1,41 @@
+.h1 {
+    color: orange;
+    font-size: 8rem;
+   }
+
+
+.sektion1 {
+    background-color: lawngreen;
+    width: 400px;
+    padding: 5px;
+    border: 30px solid orange;
+    font-size: 1.5rem;
+}
+
+.hr {
+    box-sizing: content-box; box-sizing: width 200px, height 200px, margin auto;
+}
+
+
+
+.Box {
+    background-color: lawngreen;
+    width: 250px;
+    padding: clamp(4px, 4px, 4px);
+    border-style: dotted;
+}
+
+
+div {
+    background-color: deeppink;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+h4 span {
+    colur: orange;
+}
